@@ -10,3 +10,5 @@ Codigo em Python que realiza a criptografia da mensagem "The information securit
 Caso deseje mudar a mensagem criptografada, mudar o valor do string da variavel "msg".
 
 # link para video: https://www.youtube.com/watch?v=ruRXAFeaTWI&ab_channel=LucasVeloso
+
+# link do github do codigo: https://github.com/LucasAVeloso/CriptografiaRSA
