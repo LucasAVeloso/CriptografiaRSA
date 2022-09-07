@@ -1,4 +1,9 @@
-# CriptografiaRSA
+# CriptografiaRSA - Atividade Redes FESA
+
+# Integrantes do Grupo:
+# Davi Oliveira RA 081180006
+# Lucas Veloso  RA 081180023
+# Renato Xavier RA 081180030
 
 Codigo em Python que realiza a criptografia da mensagem "The information security is of significant importance to ensure the privacy of communications", printando no console cada passo da conversão e por fim realiza o processo inverso de descriptografar.]
 
